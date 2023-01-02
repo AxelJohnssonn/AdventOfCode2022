@@ -8,8 +8,6 @@ import java.io.File;
 
 public class CaloriesMain{
 
-
-
 public static void main(String[] args) {
         int mostCalElf = 0; 
         int currentElf = 0;
